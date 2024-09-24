@@ -3,4 +3,4 @@ opensearch-py
 botocore
 awscli
 retrying
-tqdm
+
